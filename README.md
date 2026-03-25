@@ -26,7 +26,7 @@ A custom dataset was created including:
 - EMI-to-Income Ratio KPI
 
 ## 🛠 Tools Used
-- Power BI / Excel (edit based on yours)
+- Power BI & Excel
 
 ## 📸 Output
 Dashboard visualization included in repository
